@@ -1,0 +1,6 @@
+{
+  "name": "Bikeaware",
+  "description": "Webapp personale per il tracciamento in tempo reale via Bluetooth della cyclette con grafici interattivi, programmi di allenamento, cronologia, export PDF, notifiche obiettivi, integrazione Google Sheets, Strava e Google Fit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
